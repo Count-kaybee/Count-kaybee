@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Count-kaybee
+- 👋 Hi, I’m @Kabelo Tladi
 - 👀 I’m interested in improving my web-dev skills and learn other web-design and programming languages
 - 🌱 I’m currently learning Javascript
 - 💞️ Having learnt HTML and CSS made me want to further my knowledge in web designing
